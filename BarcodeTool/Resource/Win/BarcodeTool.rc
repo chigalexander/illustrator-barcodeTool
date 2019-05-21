@@ -1,0 +1,114 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Русский (Россия) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "A0.ico"
+
+IDI_ICON2               ICON                    "A90.ico"
+
+IDI_ICON3               ICON                    "A180.ico"
+
+IDI_ICON4               ICON                    "A270.ico"
+
+IDI_ICON5               ICON                    "chekBlack.ico"
+
+IDI_ICON6               ICON                    "chekWhite.ico"
+
+IDI_ICON7               ICON                    "cmbx.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "tool48black.png"
+
+IDB_PNG2                PNG                     "tool48dark.png"
+
+IDB_PNG3                PNG                     "tool24cur0.png"
+
+IDB_PNG4                PNG                     "tool24cur90.png"
+
+IDB_PNG5                PNG                     "tool24cur180.png"
+
+IDB_PNG6                PNG                     "tool24cur270.png"
+
+#endif    // Русский (Россия) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Английский (США) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PIPL
+//
+
+16000 PIPL 
+BEGIN
+    0x0001, 0x0000, 0x0000, 0x0004, 0x0000, 0x4245, 0x4144, 0x6e64, 0x6b69, 
+    0x0000, 0x0000, 0x0004, 0x0000, 0x4541, 0x5350, 0x4245, 0x4144, 0x7273, 
+    0x6976, 0x0000, 0x0000, 0x0004, 0x0000, 0x0002, 0x0000, 0x4245, 0x4144, 
+    0x3836, 0x7778, 0x0000, 0x0000, 0x000c, 0x0000, 0x6c50, 0x6775, 0x6e69, 
+    0x614d, 0x6e69, 0x0000, 0x4245, 0x4144, 0x6e6d, 0x7069, 0x0000, 0x0000, 
+    0x000c, 0x0000, 0x6142, 0x6372, 0x646f, 0x2065, 0x6f54, 0x6c6f, 0x0000, 
+    0x0000
+END
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Английский (США) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
